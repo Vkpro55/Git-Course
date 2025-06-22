@@ -261,5 +261,5 @@ So changes about you are not confident that this is incomplete and you don't hav
 git stash list /*== List of all the stash ==*/
 git stash apply stash@{0} /*== Now start work on temporarily changes ==*/
 ```
-
+![Image](https://github.com/user-attachments/assets/ee495eb7-278f-4c65-b09c-28f4b6742d15)
 
